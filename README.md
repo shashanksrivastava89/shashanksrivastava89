@@ -1,8 +1,12 @@
 ### Hi there 👋, I'm Shashank
 
-I'm a Product Manager who builds with AI. 13+ years shipping B2B platforms across **fintech, insurtech, logistics, and enterprise SaaS** — most of it spent close to the code.
+I'm a Product Manager who builds with AI. 10+ years shipping B2B platforms across **fintech, insurtech, logistics, and enterprise SaaS** — most of it spent close to the code.
 
-These days I'm focused on AI agents that make product teams faster: bug triage agents, multi-agent product discovery systems, and forward-deployed engineering workflows that actually move the needle.
+These days I'm focused on AI agents that make product teams faster: bug triage agents, multi-agent product discovery systems, and forward-deployed engineering workflows that actually move the needle. 
+
+My personal projects that are public & can be viewed here -
+- 🎬 **[Flywheel](https://github.com/shashanksrivastava89/flywheel)** — multi-agent video generation engine
+- 📱 **[Bingebuddy](https://github.com/shashanksrivastava89/bingebuddy)** - AI-powered guide to what's worth watching — on OTT and in theaters.
 
 ### What I'm working on
 
