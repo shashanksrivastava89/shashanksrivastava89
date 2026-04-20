@@ -17,7 +17,7 @@ My personal projects that are public & can be viewed here -
 ### A bit more
 
 - 🌱 Currently going deep on agent architectures, evals, and human-in-the-loop workflows
-- 💬 Happy to chat about AI agents, product discovery, or going from 0→1 in enterprise SaaS
+- 💬 Happy to chat about AI agents, product discovery, or going from 0→1 & 1→10 in enterprise SaaS
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shashanksri) or [email](mailto:shashank.srivastava89@gmail.com)
 
 > *Note: Most of what I build lives inside the companies I work for, so this profile is light on public repos. Happy to walk through the work in a conversation.*
